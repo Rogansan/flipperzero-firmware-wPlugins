@@ -6,7 +6,7 @@ Version: 1
 Add_standard_frequencies: false
 
 # Default Frequency: used as default for "Read" and "Read Raw"
-Default_frequency: 433920000,
+Default_frequency:
     /* 300 - 348 */
     300000000,
     302757000,
